@@ -1,40 +1,158 @@
-
-Cloud Fundamentals
+```text
+cloud-fundamentals/
 │
-├── 01. Cloud Computing Basics
+├── README.md
 │
-├── 02. Cloud Service Models
+├── 01-cloud-computing-basics/
+│   ├── README.md
+│   ├── cloud-computing.md
+│   ├── key-concepts.md
+│   └── security-insights.md
 │
-├── 03. Cloud Deployment Models
+├── 02-cloud-service-models/
+│   ├── README.md
+│   ├── iaas.md
+│   ├── paas.md
+│   ├── saas.md
+│   └── shared-responsibility.md
 │
-├── 04. Cloud Architecture
+├── 03-cloud-deployment-models/
+│   ├── README.md
+│   ├── public-cloud.md
+│   ├── private-cloud.md
+│   ├── hybrid-cloud.md
+│   └── multi-cloud.md
 │
-├── 05. Compute
+├── 04-cloud-architecture/
+│   ├── README.md
+│   ├── regions.md
+│   ├── availability-zones.md
+│   ├── data-centers.md
+│   └── fault-domains.md
 │
-├── 06. Storage
+├── 05-cloud-compute/
+│   ├── README.md
+│   ├── virtual-machines.md
+│   ├── serverless.md
+│   ├── auto-scaling.md
+│   └── compute-security.md
 │
-├── 07. Networking
+├── 06-cloud-storage/
+│   ├── README.md
+│   ├── object-storage.md
+│   ├── block-storage.md
+│   ├── file-storage.md
+│   └── storage-security.md
 │
-├── 08. Identity & Access Management
+├── 07-cloud-networking/
+│   ├── README.md
+│   ├── vpc-vnet.md
+│   ├── subnets.md
+│   ├── routing.md
+│   ├── internet-nat-gateway.md
+│   ├── security-groups.md
+│   ├── network-acls.md
+│   ├── vpn.md
+│   └── cloud-network-security.md
 │
-├── 09. Databases
+├── 08-identity-and-access-management/
+│   ├── README.md
+│   ├── authentication.md
+│   ├── authorization.md
+│   ├── iam-users-groups-roles.md
+│   ├── policies.md
+│   ├── mfa.md
+│   ├── least-privilege.md
+│   └── service-identities.md
 │
-├── 10. Virtualization & Containers
+├── 09-cloud-databases/
+│   ├── README.md
+│   ├── relational-databases.md
+│   ├── nosql.md
+│   ├── managed-databases.md
+│   └── database-security.md
 │
-├── 11. Availability & Scalability
+├── 10-virtualization-and-containers/
+│   ├── README.md
+│   ├── virtualization.md
+│   ├── containers.md
+│   ├── docker.md
+│   ├── kubernetes-basics.md
+│   └── container-security.md
 │
-├── 12. Load Balancing
+├── 11-availability-and-scalability/
+│   ├── README.md
+│   ├── high-availability.md
+│   ├── scalability.md
+│   ├── elasticity.md
+│   ├── redundancy.md
+│   └── fault-tolerance.md
 │
-├── 13. Monitoring & Logging
+├── 12-load-balancing/
+│   ├── README.md
+│   ├── layer4-vs-layer7.md
+│   ├── health-checks.md
+│   ├── reverse-proxy.md
+│   └── tls-termination.md
 │
-├── 14. Automation & Infrastructure as Code
+├── 13-monitoring-and-logging/
+│   ├── README.md
+│   ├── logs.md
+│   ├── metrics.md
+│   ├── audit-logs.md
+│   ├── cloud-monitoring.md
+│   └── security-monitoring.md
 │
-├── 15. Cloud Cost & Resource Management
+├── 14-automation-and-iac/
+│   ├── README.md
+│   ├── cloud-cli.md
+│   ├── cloud-api.md
+│   ├── infrastructure-as-code.md
+│   ├── terraform.md
+│   └── security-automation.md
 │
-├── 16. Backup & Disaster Recovery
+├── 15-cloud-cost-management/
+│   ├── README.md
+│   ├── pricing-models.md
+│   ├── resource-management.md
+│   └── cloud-resource-abuse.md
 │
-├── 17. Shared Responsibility Model
+├── 16-backup-and-disaster-recovery/
+│   ├── README.md
+│   ├── backup.md
+│   ├── snapshots.md
+│   ├── replication.md
+│   ├── rpo-and-rto.md
+│   └── disaster-recovery.md
 │
-├── 18. Cloud Security Fundamentals
+├── 17-shared-responsibility/
+│   ├── README.md
+│   ├── provider-responsibility.md
+│   ├── customer-responsibility.md
+│   └── iaas-paas-saas-comparison.md
 │
-└── 19. Major Cloud Platforms
+├── 18-cloud-security-fundamentals/
+│   ├── README.md
+│   ├── encryption.md
+│   ├── key-management.md
+│   ├── secrets-management.md
+│   ├── waf.md
+│   ├── ddos-protection.md
+│   ├── vulnerability-management.md
+│   ├── zero-trust.md
+│   └── cloud-security-monitoring.md
+│
+├── 19-cloud-platforms/
+│   ├── README.md
+│   ├── aws/
+│   ├── azure/
+│   └── gcp/
+│
+└── labs/
+    ├── README.md
+    ├── cloud-networking/
+    ├── iam/
+    ├── storage-security/
+    ├── logging-monitoring/
+    └── incident-response/
+```
