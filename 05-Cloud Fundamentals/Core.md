@@ -156,3 +156,27 @@ cloud-fundamentals/
     ├── logging-monitoring/
     └── incident-response/
 ```
+
+
+
+- Introduction to Cloud Computing (Definition, Evolution, Characteristics, Benefits)
+
+- Cloud Service Models (SaaS, PaaS, IaaS, DaaS, FaaS)
+
+- Cloud Deployment Models (Public, Private, Hybrid)
+
+- Cloud Computing Architecture (Virtualization, Datacenters, Virtual Machines)
+
+- Virtualization Technology (Type 1 and Type 2, VMs and Containers, Full & Para)
+
+- Cloud Storage (Object, File & Block Storage), Providers, Backups, Archives
+
+- Cloud Security and Privacy (Privacy and Compliance, IAM, ISO 27001, NIST)
+
+- Cloud Networking (VPC, SDN, Load Balancing)
+
+- Cloud Application Development (DevOps, CI/CD, Containerization & Kubernetes)
+
+- Emerging Trends in Cloud Computing
+
+- Cloud Platforms & Tools (AWS (EC2, S3, RDS, Lambda), Azure (ARM), GCP etc.)
