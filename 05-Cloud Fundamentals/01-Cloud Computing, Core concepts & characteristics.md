@@ -13,6 +13,17 @@
 * **SaaS (Software as a Service):** Ready-to-use software is accessed directly over the internet.
 
   * *Examples:* Google Drive, Microsoft 365, Gmail.
+    
+* **DaaS — Desktop as a Service:** DaaS provides virtual desktops through the cloud. Users can access their desktop environment remotely from different devices.
+The cloud provider manages much of the underlying infrastructure and desktop environment.
+
+Examples: Amazon WorkSpaces, Azure Virtual Desktop, Citrix DaaS
+
+* **FaaS — Function as a Service:** FaaS allows developers to run individual pieces of application code, called functions, without managing servers directly.
+It is commonly associated with serverless computing.
+
+Examples: AWS Lambda, Azure Functions, Google Cloud Functions
+
 
 ## **Deployment Models**
 
