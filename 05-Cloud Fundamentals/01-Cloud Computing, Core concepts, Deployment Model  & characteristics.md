@@ -17,15 +17,15 @@
 * **DaaS — Desktop as a Service:** DaaS provides virtual desktops through the cloud. Users can access their desktop environment remotely from different devices.
 The cloud provider manages much of the underlying infrastructure and desktop environment.
 
-Examples: Amazon WorkSpaces, Azure Virtual Desktop, Citrix DaaS
+  * *Examples:* Amazon WorkSpaces, Azure Virtual Desktop, Citrix DaaS
 
 * **FaaS — Function as a Service:** FaaS allows developers to run individual pieces of application code, called functions, without managing servers directly.
 It is commonly associated with serverless computing.
 
-Examples: AWS Lambda, Azure Functions, Google Cloud Functions
+  * *Examples:* AWS Lambda, Azure Functions, Google Cloud Functions
 
 
-## **Deployment Models**
+## **Cloud Deployment Models**
 
 * **Public Cloud:** On-demand cloud resources provided to multiple customers over the internet, such as AWS, Azure, and GCP.
 
